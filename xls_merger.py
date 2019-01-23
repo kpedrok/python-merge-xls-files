@@ -4,7 +4,6 @@ import os
 #install pandas, openpyxl, xlrd
 start = datetime.datetime.now()
 print("Processo Iniciado")
-print('ok')
 def csv_merger():
     
     path = os.getcwd()
