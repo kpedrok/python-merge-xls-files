@@ -1,1 +1,1 @@
-python -m xls_merger
+python -m file_merger.py
